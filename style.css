@@ -1,0 +1,20 @@
+#First-name{
+    color:red;
+    font-size: 20px;
+    font-weight: 900;
+}
+#second-name{
+    color: aqua;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+#third-name{
+    color: blanchedalmond;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+.name{
+    color: blue;
+}
